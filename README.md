@@ -13,19 +13,14 @@
     <a href="https://github.com/emad-cr7?tab=repositories">
       <img src="https://img.shields.io/badge/Public_Repos-5%2B-02569B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
-    <a href="mailto:emad.mobile.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Get_In_Touch-Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <img src="https://img.shields.io/badge/Status-Open_for_Impactful_Roles-8B5CF6?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Flutter_%26_Mobile_Architecture-0175C2?style=for-the-badge&logo=flutter&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Performance-60_%2F_120_FPS-10B981?style=for-the-badge" alt="Performance" />
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me & Engineering Philosophy
+### 👨‍💻 Engineering Philosophy & Core Focus
 
 - 📱 **Mobile Core:** Focused on building robust, production-ready iOS and Android mobile solutions powered by **Flutter** and **Dart 3**.
 - 🏛️ **Architecture First:** Passionate advocate for **Clean Architecture**, feature-first modularization, SOLID design principles, and scalable dependency injection.
@@ -97,7 +92,7 @@
 
 ---
 
-### 🚀 Featured Production Projects
+### 🚀 Production Projects
 
 | Project | Tech Stack | Highlights | Link |
 | :--- | :--- | :--- | :---: |
@@ -105,7 +100,6 @@
 | 📖 **Deenora** | `Flutter` `Dio` `Hive CE` `Skeletonizer` | High-performance offline-first Islamic companion app built with zero-latency local caching via Hive Community Edition, Dio networking, and skeletonized loading states. | [View Repo](https://github.com/emad-cr7/deenora) |
 | ⚡ **Tasky** | `Flutter` `Staggered Animations` `Hive CE` `Theme Switcher` | Fluid task and productivity suite featuring staggered entry animations, dynamic dark/light theme switching, and local persistence. | [View Repo](https://github.com/emad-cr7/tasky) |
 | 📰 **News App** | `Flutter` `Dart` `REST APIs` `Provider` | Real-time multi-category news feed application structured with clean state management, modular services, and comprehensive error handling. | [View Repo](https://github.com/emad-cr7/news_app) |
-| 🌐 **Interactive Portfolio Showcase** | `React 19` `TypeScript` `Framer Motion` `Tailwind CSS` | High-impact web showcase featuring playable interactive mobile mini-apps, architecture case studies, and production Dart patterns. | [Explore Code](https://github.com/emad-cr7) |
 
 ---
 
@@ -134,16 +128,6 @@
     </tr>
   </table>
 </div>
-
----
-
-### 🤝 Let's Connect & Collaborate
-
-I'm always excited to discuss mobile architecture, performance optimizations, and building high-impact mobile solutions:
-
-- 💼 **LinkedIn:** [Connect with Emad](https://linkedin.com)
-- 📬 **Email:** [emad.mobile.dev@gmail.com](mailto:emad.mobile.dev@gmail.com)
-- 🐙 **GitHub:** [@emad-cr7](https://github.com/emad-cr7)
 
 <br />
 
