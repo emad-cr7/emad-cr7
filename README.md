@@ -47,6 +47,7 @@
 <p>
   <img src="https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge&logo=blueprint&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/BLoC_Pattern-2D3748?style=for-the-badge&logo=dart&logoColor=40D3F3" />
+  <img src="https://img.shields.io/badge/Provider-03A9F4?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Feature_First-1E293B?style=for-the-badge&logo=diagram-next&logoColor=white" />
 </p>
 
