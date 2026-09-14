@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vcenter=true&width=650&lines=Mobile+Developer;Clean+Architecture+%26+Enterprise+Design+Patterns;Reactive+State+Mastery%3A+BLoC+%26+Riverpod;Smooth+60%2F120+FPS+UI+%26+Impeller+Optimization;Resilient+Offline-First+Architectures+(Hive+%2F+Drift)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vcenter=true&width=650&lines=Mobile+Developer;Clean+Architecture+%26+Enterprise+Design+Patterns;Reactive+State+Mastery%3A+BLoC;Smooth+60%2F120+FPS+UI+%26+Impeller+Optimization;Resilient+Offline-First+Architectures+(Hive+%2F+Drift)" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -25,8 +25,8 @@
 - 📱 **Mobile Core:** Focused on building robust, production-ready iOS and Android mobile solutions powered by **Flutter** and **Dart 3**.
 - 🏛️ **Architecture First:** Passionate advocate for **Clean Architecture**, feature-first modularization, SOLID design principles, and scalable dependency injection.
 - ⚡ **Performance Obsessed:** Dedicated to zero-jank 60/120 FPS user interfaces, Impeller rendering pipeline optimization, and rigorous memory/CPU profiling via DevTools.
-- 🔄 **Reactive State Systems:** Expert in designing maintainable, decoupled business logic with **BLoC**, **Riverpod**, and **Provider**.
-- 💾 **Offline-First Resilience:** Crafting resilient applications with local NoSQL engines (**Hive CE**) and relational databases (**SQLite / Drift**), paired with robust sync mechanisms.
+- 🔄 **Reactive State Systems:** Expert in designing maintainable, decoupled business logic with **BLoC**.
+- 💾 **Offline-First Resilience:** Crafting resilient applications with local NoSQL engines (**Hive CE**) and relational databases (**Drift**), paired with robust sync mechanisms.
 - 🌐 **Modern API Integration:** Type-safe networking architectures with **GraphQL Flutter**, **Dio** interceptors, automated token refresh rotators, and comprehensive error handling.
 
 ---
@@ -47,9 +47,7 @@
 <p>
   <img src="https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge&logo=blueprint&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/BLoC_Pattern-2D3748?style=for-the-badge&logo=dart&logoColor=40D3F3" />
-  <img src="https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Provider-03A9F4?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM_/_Feature_First-1E293B?style=for-the-badge&logo=diagram-next&logoColor=white" />
+  <img src="https://img.shields.io/badge/Feature_First-1E293B?style=for-the-badge&logo=diagram-next&logoColor=white" />
 </p>
 
 #### 🌐 Networking & Data Pipelines
@@ -63,8 +61,7 @@
 #### 💾 Local Storage & Database
 <p>
   <img src="https://img.shields.io/badge/Hive_CE-FFCA28?style=for-the-badge&logo=apachehive&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drift_/_Isar-0284C7?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drift-0284C7?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Secure_Storage-10B981?style=for-the-badge&logo=shield&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
@@ -96,10 +93,10 @@
 
 | Project | Tech Stack | Highlights | Link |
 | :--- | :--- | :--- | :---: |
-| 📦 **Shohnati** | `Flutter` `GraphQL` `Secure Storage` `Provider` | Modern freight logistics & shipping application featuring end-to-end GraphQL API integration, secure biometric credential storage, and international country dialing picker. | [View Repo](https://github.com/emad-cr7/Shohnati) |
+| 📦 **Shohnati** | `Flutter` `GraphQL` `Secure Storage` | Modern freight logistics & shipping application featuring end-to-end GraphQL API integration, secure biometric credential storage, and international country dialing picker. | [View Repo](https://github.com/emad-cr7/Shohnati) |
 | 📖 **Deenora** | `Flutter` `Dio` `Hive CE` `Skeletonizer` | High-performance offline-first Islamic companion app built with zero-latency local caching via Hive Community Edition, Dio networking, and skeletonized loading states. | [View Repo](https://github.com/emad-cr7/deenora) |
 | ⚡ **Tasky** | `Flutter` `Staggered Animations` `Hive CE` `Theme Switcher` | Fluid task and productivity suite featuring staggered entry animations, dynamic dark/light theme switching, and local persistence. | [View Repo](https://github.com/emad-cr7/tasky) |
-| 📰 **News App** | `Flutter` `Dart` `REST APIs` `Provider` | Real-time multi-category news feed application structured with clean state management, modular services, and comprehensive error handling. | [View Repo](https://github.com/emad-cr7/news_app) |
+| 📰 **News App** | `Flutter` `Dart` `REST APIs` | Real-time multi-category news feed application structured with clean state management, modular services, and comprehensive error handling. | [View Repo](https://github.com/emad-cr7/news_app) |
 
 ---
 
